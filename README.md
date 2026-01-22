@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Lab 3 Instructions by Junwen Shen
 
 ## Verbal Collaboration
 
